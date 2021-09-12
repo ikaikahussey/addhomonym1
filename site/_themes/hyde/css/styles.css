@@ -20,3 +20,8 @@ related-posts li a:hover, a {color: #333;}
 
 .page-title, .post-title, .post-title a {color: black !important;background: none !important;}
 .post-title a:hover {text-decoration: none;}
+
+h1 a:hover {text-decoration: none;}
+
+.post {padding-bottom: 4em;
+border-bottom: 4px solid black;}
