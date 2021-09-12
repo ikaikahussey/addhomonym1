@@ -9,14 +9,20 @@
         <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="/">Home</a>
         {% for item in collections.pages %}
         <a class="sidebar-nav-item{% if page.url == item.url %} active{% endif %}" href="{{ item.url }}">{{ item.data.title }}</a>
+        <a class="sidebar-nav-item{% if page.url == item.url %} active{% endif %}" href="https://campaign.ikaikahussey.com">City Council Campaign</a>
+	     <a class="sidebar-nav-item{% if page.url == item.url %} active{% endif %}" href="https://hawaii.federated.industries">Hawaii Federated Industries</a>
         {% endfor %}
         <br>
         <div style="font-size:80%;">
-          <a class="sidebar-nav-item" href="https://github.com/TigersWay" rel="noopener" target="_blank">Special thanks to TigersWay</a>
-          <span class="sidebar-nav-item">Currently v{{ pkg.version }}</span>
+          Colophon
+          <ul>
+	          <li><a href="https://netlify.com">Netlify</a></li>
+	          <li><a href="https://www.11ty.dev">11ty</a></li>
+	          <li><a class="sidebar-nav-item" href="https://github.com/TigersWay/eleventy-classic-blog-starter" rel="noopener" target="_blank">TigersWay</a></li>
+          </ul>
         </div>
       </nav>
 
-      <p>&copy; {{ site.time | dateFormat('YYYY') }} All rights reserved.</p>
+      <div style="font-size:80%;">&copy; {{ site.time | dateFormat('YYYY') }} All rights reserved</div>
     </div>
   </div>
