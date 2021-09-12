@@ -1,7 +1,7 @@
 module.exports = {
-  title: "ECBS",
-  tagline: "Eleventy Classic Blog Starter",
-  url: "https://eleventy-classic-blog-starter.netlify.app",
+  title: "Ikaika Hussey",
+  tagline: "A part-Hawaiian website",
+  url: "https://ikaikahussey.com",
   time: Date.now(),
   locale: "en-GB",
   theme: "hyde"
