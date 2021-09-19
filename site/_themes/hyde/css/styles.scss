@@ -12,9 +12,6 @@ background-image: radial-gradient(rgba(0, 0, 0, 0.44) 29%,transparent 20%),radia
   background-size: 100px 100px;
 */
 }
-
-
-article.post a {color: red;}
                    
 .post-date {color: #747474; font-size: 90%;}
 .related-posts li small {color: #747474;}
@@ -89,3 +86,6 @@ $colors : #fedc00 0,
 	background-blend-mode: overlay;
 	height: 100vh;
 }
+
+article.post a {background: $colors;}
+article.post a:hover {background: $colors;text-decoration: none;}
