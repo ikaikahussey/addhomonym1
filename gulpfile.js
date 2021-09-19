@@ -45,7 +45,7 @@ const watchHTML = () => watch(['site/**/*.{md,njk,11tydata.js}', '_11ty/**/*.js'
 const buildCSS = () => {
   return src(`site/${theme}/css/styles.css`, {base: `site/${theme}`})
     .pipe(src('./node_modules/highlight.js/styles/github.css'))
-    .pipe($.concat('css/styles.css'))
+    .pipe($.concat('css/combined.css'))
     // .pipe($.header('/*! ${pkg.name} v${pkg.version} | ${pkg.license} | ${ pkg.author} */', {pkg: pkg}))
     .pipe($.cleanCss({
       // format: {
