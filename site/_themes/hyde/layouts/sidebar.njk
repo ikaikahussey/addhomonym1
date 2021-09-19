@@ -2,19 +2,19 @@
     <div class="container sidebar-sticky">
       <div class="sidebar-about">
         <h1><a href="/">{{ site.title }}</a></h1>
-        <p class="lead">{{ site.tagline }}</p>
+        <p class="hide lead">{{ site.tagline }}</p>
       </div>
 
       <nav class="sidebar-nav">
-        <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="/">Home</a>
+        <a class="hide sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="/">Home</a>
 <!--
         {% for item in collections.pages %}
         <a class="sidebar-nav-item{% if page.url == item.url %} active{% endif %}" href="{{ item.url }}">{{ item.data.title }}</a>
         {% endfor %}
 -->
 		<a class="sidebar-nav-item{% if page.url == item.url %} active{% endif %}" href="/about">About</a>
-        <a class="sidebar-nav-item{% if page.url == item.url %} active{% endif %}" href="https://campaign.ikaikahussey.com">City Council Campaign</a>
-	    <a class="sidebar-nav-item{% if page.url == item.url %} active{% endif %}" href="https://hawaii.federated.industries">Hawaii Federated Industries</a>
+        <a class="hide sidebar-nav-item{% if page.url == item.url %} active{% endif %}" href="https://campaign.ikaikahussey.com">City Council Campaign</a>
+	    <a class="hide sidebar-nav-item{% if page.url == item.url %} active{% endif %}" href="https://hawaii.federated.industries">Hawaii Federated Industries</a>
 
         <br>
         <div style="font-size:80%;">
