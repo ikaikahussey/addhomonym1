@@ -87,5 +87,9 @@ $colors : #fedc00 0,
 	height: 100vh;
 }
 
-article.post a {background: $colors;}
-article.post a:hover {background: $colors;text-decoration: none;}
+article.post p a {color: inherit;border-bottom: 2px solid red;}
+article.post p a:hover {color: inherit;border-bottom: 2px solid black;text-decoration: none;}
+
+iframe {max-width: 100%;}
+
+.related-posts li a:hover {color: red;}
