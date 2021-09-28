@@ -5,6 +5,7 @@ article {content-visibility: auto;}
 article img {width:100%; height:auto;}
 
 .sidebar {
+	text-align: left;
 /*
 background-image: radial-gradient(rgba(0, 0, 0, 0.44) 29%,transparent 20%),radial-gradient(rgba(216, 216, 216, 0.23) 30%,transparent 20%);
   background-color: #ff0500;
@@ -35,9 +36,11 @@ border-bottom: 4px solid black;}
 
 @media only screen 
   and (min-device-width: 320px) 
-  and (max-device-width: 480px)
+  and (max-device-width: 500px)
   and (-webkit-min-device-pixel-ratio: 2) {
 .hide {display: none;}
+nav.sidebar-nav ul li {display: inline;float: right;}
+.sidebar {height: 50vh;}
 }
 
 body {font-family: 'Univers', sans-serif;}
@@ -86,7 +89,6 @@ $colors : #fedc00 0,
 		repeating-radial-gradient(circle at bottom left, $colors),
 		repeating-radial-gradient(circle at bottom right, $colors);
 	background-blend-mode: overlay;
-	height: 100vh;
 }
 
 article.post p a {color: inherit;border-bottom: 2px solid red;}
