@@ -36,6 +36,10 @@ article img {
     line-height: 1.75;
   }
 }
+.correction {
+  background: #fff5f5;
+}
+
 related-posts li a:hover, a {
   color: #333;
 }

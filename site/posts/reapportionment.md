@@ -30,10 +30,18 @@ There are three criteria for this body:
 > * Districts, insofar as practicable, shall be contiguous and compact.
 > * District lines shall, where possible, follow permanent and easily recognized features and census boundaries
 
-It doesn’t say that the districts can’t overlap. 
+It doesn’t say that the districts can’t <a class="correction" href="#2">overlap</a>. 
 
-So as an example, the commission could create six seats corresponding to the traditional Moku boundaries, and three at-large island-wide districts, to deal with the population imbalance among the six Moku. ([This would be very similar to the districts designed by former City Clerk Raymond Pua when he created the apportionment plan for the 1999 Native Hawaiian Convention.](http://archives.starbulletin.com/2005/03/08/news/story7.html)) 
+So as an example, the commission could create six <a class="correction" href="#1">equally-apportioned</a> seats corresponding roughly to the traditional Moku boundaries, and three at-large island-wide districts, to deal with the population imbalance among the six Moku. ([This would be very similar to the districts designed by former City Clerk Raymond Pua when he created the apportionment plan for the 1999 Native Hawaiian Convention.](http://archives.starbulletin.com/2005/03/08/news/story7.html)) 
 
 The three at-large seats might be dominated by Honolulu, but they would have to listen to their voters in Waialua and Waianae and Mililani and Kahala. And I believe that this would most ably accomplish the mission set forth in the Charter, which is “... to seek to achieve in our time that righteousness by which the life of our land is preserved and to encourage and enable our people to participate in their governance.” 
 
 Ours is a once-in-a-decade opportunity, and this is the decade for us to make big moves. Thank you for your consideration.
+
+<hr>
+<div class="footnotes">
+<ol>
+<li class="" id="1">Added "equally-apportioned" per conversation with Trever Asam <a href="https://www.facebook.com/ikaikahussey/posts/10158037150532484?comment_id=10158037827867484&notif_id=1632851537251218&notif_t=feed_comment&ref=notif">on Facebook</a>.</li>
+<li class="" id="2">Trever disagrees with my reading of the word 'contiguous.' He might be right. At any rate, it's one word we can subtract from the next charter review.</li>
+</ol>
+</div>
