@@ -12,7 +12,7 @@ tag:
 
 Aloha Chair Aiona, Vice Chair Shigemasa, and members of the Reapportionment Commission. Thank you very much for the opportunity to testify. 
 
-I’d like to state in advance of my remarks that I am a candidate for City Council in 2022, so I am not an unbiased commentator on this issue. And I am satisfied generally with the outcome of your work and thank you for the hours that you spent dealing with the question of the make up of the council. 
+I’d like to state in advance of my remarks that I am a candidate for City Council in 2022, so I am not an unbiased commentator on this issue. And I am satisfied generally with the outcome of your work and thank you for the hours that you've spent dealing with the question of the make-up of the council. 
 
 I wanted to speak today briefly to highlight the path that we’re not taking with respect to reapportionment. Which is that we have not considered at-large or multimember districts, and I understand that there are legal questions that might be preventing us from taking that route. 
 
