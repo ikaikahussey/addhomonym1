@@ -1,3 +1,9 @@
+1. npm sass
+2. npm run build
+3. npm run live
+
+
+
 # eleventy-classic-blog-starter  ![GitHub last commit](https://img.shields.io/github/last-commit/tigersway/eleventy-classic-blog-starter?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/tigersway/eleventy-classic-blog-starter?style=flat-square)
 
 A starter repository for a classic blog website using the Eleventy SSG.
