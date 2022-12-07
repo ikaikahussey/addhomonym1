@@ -2,6 +2,8 @@
 2. npm run build
 3. npm run live
 
+This is my personal blog. It uses 11ty. Eventually I'll add a backend admin panel.
+
 
 
 # eleventy-classic-blog-starter  ![GitHub last commit](https://img.shields.io/github/last-commit/tigersway/eleventy-classic-blog-starter?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/tigersway/eleventy-classic-blog-starter?style=flat-square)
